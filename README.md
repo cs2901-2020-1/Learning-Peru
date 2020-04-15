@@ -9,3 +9,9 @@
 | Dario Toribio| 201720095 |
 | Cesar Madera| 201810188 |
 
+
+## Trabajo Elevator Pitch
+
++ Infografia -> [Link Infografia](https://view.genial.ly/5e8f84823cd3850dea94264c/horizontal-infographic-lists-budista)
++ Diapositivas -> [Link diapositivas](https://view.genial.ly/5e8f806a3cd3850dea93f0eb/presentation-software)
+
