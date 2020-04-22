@@ -1,4 +1,4 @@
-# pitch-import-springboot
+# Learning Peru
 # Lider: Cesar Madera
 | Nombre y Apellidos | codigo de alumno |
 |-|-|
